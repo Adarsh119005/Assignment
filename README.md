@@ -6,8 +6,15 @@ This is a full-stack web application built with **React (frontend)** and **Node.
 
 ## 📥 Download Project
 
-You can download the project from the following Google Drive link:
+I can't upload the project because it is too large.
+You can download zip file of the project from the following Google Drive link:
 [Download Full-Stack Project](https://drive.google.com/file/d/1L6RH0v7hADmBQJB1PRg60HsV69eojW3G/view?usp=drive_link)
+
+
+## Project Video
+
+Watch the video:-
+[Watch Project Video](https://drive.google.com/file/d/1R5GbVSb8e4LhazP36267-0Kb2lEHgX07/view?usp=drive_link)
 
 
 ## 🛠 Requirements
